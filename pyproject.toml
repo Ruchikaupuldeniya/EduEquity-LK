@@ -1,0 +1,23 @@
+[tool.vercel]
+entrypoint = "app.py"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eduequity-lk"
+version = "1.0.0"
+description = "Sri Lanka Education Inequality & School Dropout Observatory"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "scikit-learn>=1.3.0",
+    "streamlit>=1.30.0",
+    "plotly>=5.18.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "requests>=2.31.0"
+]

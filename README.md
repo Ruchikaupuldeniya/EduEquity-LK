@@ -141,6 +141,21 @@ Open your browser to `http://localhost:8501`.
 
 ---
 
+## 🌐 1-Click Cloud Deployment (Free Hosting)
+
+### Method A: Streamlit Community Cloud (Recommended for Full Interactivity)
+1. Visit [share.streamlit.io](https://share.streamlit.io) and log in with your GitHub account.
+2. Click **"New App"** and select:
+   - **Repository:** `Ruchikaupuldeniya/EduEquity-LK`
+   - **Branch:** `main`
+   - **Main file path:** `dashboard/app.py` (or `app.py`)
+3. Click **Deploy!** Your live dashboard will be accessible globally 24/7 with full WebSockets and interactive maps.
+
+### Method B: Vercel / Serverless
+The repository includes `vercel.json` and `pyproject.toml` pre-configured with the root `app.py` entrypoint for Vercel Python runtime builds.
+
+---
+
 ## 📚 Official Data Sources & Citations
 
 1. **Ministry of Education (MOE) Sri Lanka:** *Annual School Census Reports (2014–2024)*, Statistics Branch, Ministry of Education, Battaramulla. [moe.gov.lk](https://moe.gov.lk)
