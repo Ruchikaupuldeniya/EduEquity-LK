@@ -1,0 +1,12 @@
+grade_level,grade_number,stage,urban_dropout_rate_pct,rural_dropout_rate_pct,estate_dropout_rate_pct,national_avg_dropout_rate_pct,estate_to_urban_disparity_ratio,estate_to_rural_disparity_ratio
+Grade 1,1,Primary,0.15,0.35,1.2,0.42,8.0,3.43
+Grade 2,2,Primary,0.18,0.4,1.35,0.48,7.5,3.38
+Grade 3,3,Primary,0.22,0.45,1.5,0.54,6.82,3.33
+Grade 4,4,Primary,0.25,0.55,1.8,0.65,7.2,3.27
+Grade 5,5,Primary,0.45,0.9,2.9,1.05,6.44,3.22
+Grade 6,6,Junior Secondary,0.65,1.4,4.1,1.62,6.31,2.93
+Grade 7,7,Junior Secondary,0.8,1.75,5.2,2.05,6.5,2.97
+Grade 8,8,Junior Secondary,0.95,2.2,6.8,2.6,7.16,3.09
+Grade 9,9,Junior Secondary,1.45,3.1,8.9,3.65,6.14,2.87
+Grade 10,10,Senior Secondary (O/L),2.1,4.6,12.4,5.25,5.9,2.7
+Grade 11,11,Senior Secondary (O/L),3.2,6.8,18.5,7.8,5.78,2.72
