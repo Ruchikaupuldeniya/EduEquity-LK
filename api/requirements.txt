@@ -1,0 +1,3 @@
+# Minimal dependencies for Vercel Serverless Function runtime
+# (The main ML pipeline and analysis are pre-processed into data/processed/)
+requests>=2.31.0

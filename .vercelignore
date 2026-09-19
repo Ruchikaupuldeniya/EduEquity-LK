@@ -1,0 +1,9 @@
+# Vercel Deployment Ignore Rules
+notebooks/
+reports/figures/
+tests/
+data/raw/
+.pytest_cache/
+.git/
+*.png
+*.jpg
