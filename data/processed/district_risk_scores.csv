@@ -1,0 +1,26 @@
+district,province,dropout_rate_pct,poverty_headcount_pct,estate_pop_pct,median_hh_income_lkr,pct_1ab_schools,student_teacher_ratio,pct_schools_with_computer_labs,pct_schools_with_sanitation,pct_tamil_medium_schools,roads_access_index,infrastructure_deficit_index,predicted_dropout_rate,composite_risk_score,risk_tier,primary_vulnerability_driver
+Nuwara Eliya,Central,4.681428571428571,6.7,53.5,38400,4.6,17.8,34.2,72.5,64.2,52.0,57.67,4.44,95.0,Critical Risk,High Estate Sector Concentration & Distance to Secondary Schools
+Mullaitivu,Northern,4.194285714285714,12.7,0.0,35400,5.1,15.2,29.5,71.8,99.2,51.0,59.01,4.21,84.6,Critical Risk,Acute Income Poverty & Economic Shocks
+Batticaloa,Eastern,4.08,11.3,0.0,41200,6.5,17.9,41.2,76.5,97.4,67.5,50.82,3.83,82.2,Critical Risk,Acute Income Poverty & Economic Shocks
+Monaragala,Uva,3.9614285714285713,5.8,1.8,41500,4.2,16.2,31.4,73.2,9.8,54.0,59.18,4.04,79.7,Critical Risk,Lack of 1AB Advanced Level Science Schools
+Kilinochchi,Northern,3.902857142857143,18.2,0.0,36200,5.4,16.0,35.8,74.2,99.0,58.5,55.32,3.99,78.4,Critical Risk,Acute Income Poverty & Economic Shocks
+Badulla,Uva,3.8542857142857145,6.8,19.2,42800,5.8,16.8,42.5,75.8,36.5,59.0,51.56,3.83,77.4,Critical Risk,High Estate Sector Concentration & Distance to Secondary Schools
+Trincomalee,Eastern,3.2728571428571427,9.8,0.1,44500,7.2,17.1,46.8,79.4,78.5,66.5,46.66,3.2,65.1,Elevated Risk,Moderate Baseline Disparity
+Ratnapura,Sabaragamuwa,3.1785714285714284,5.9,8.1,49200,7.1,18.0,49.8,81.5,17.5,65.0,44.98,3.04,63.0,Elevated Risk,Moderate Baseline Disparity
+Puttalam,North Western,3.1142857142857143,8.3,0.3,46200,7.0,19.4,48.5,80.5,34.2,70.0,45.95,2.99,61.7,Elevated Risk,Moderate Baseline Disparity
+Mannar,Northern,2.972857142857143,11.2,0.0,42100,6.8,15.8,44.5,78.5,96.2,62.0,48.45,3.27,58.7,Elevated Risk,Acute Income Poverty & Economic Shocks
+Ampara,Eastern,2.7971428571428567,7.2,0.1,48500,8.2,17.6,54.6,84.2,62.8,72.0,40.6,2.58,54.9,Elevated Risk,Moderate Baseline Disparity
+Matale,Central,2.5385714285714287,6.2,4.8,52100,7.8,16.9,51.3,81.2,18.2,68.0,43.42,2.59,49.4,Moderate Risk,Moderate Baseline Disparity
+Polonnaruwa,North Central,2.325714285714286,6.1,0.0,51900,7.6,17.2,52.0,82.8,9.5,69.5,42.96,2.39,44.9,Moderate Risk,Moderate Baseline Disparity
+Anuradhapura,North Central,2.2971428571428567,5.9,0.0,52400,8.0,17.4,53.2,83.5,8.2,71.0,41.67,2.35,44.3,Moderate Risk,Moderate Baseline Disparity
+Vavuniya,Northern,2.237142857142857,7.4,0.0,47800,8.5,16.5,52.4,82.6,88.4,69.5,41.51,2.35,43.0,Moderate Risk,Moderate Baseline Disparity
+Kegalle,Sabaragamuwa,2.1928571428571426,4.5,5.7,55400,9.0,17.8,59.2,88.0,12.4,74.0,36.42,2.15,42.1,Moderate Risk,Moderate Baseline Disparity
+Hambantota,Southern,1.9957142857142858,4.9,0.1,54200,9.2,17.5,58.6,87.2,2.5,77.0,36.6,1.99,37.9,Moderate Risk,Moderate Baseline Disparity
+Kandy,Central,1.94,5.5,6.3,59800,10.4,18.2,62.1,88.4,24.5,76.5,33.04,1.95,36.7,Moderate Risk,Moderate Baseline Disparity
+Kurunegala,North Western,1.7842857142857143,4.6,0.2,56800,9.6,18.9,61.4,89.2,7.4,78.5,34.28,1.77,33.4,Moderate Risk,Moderate Baseline Disparity
+Jaffna,Northern,1.5385714285714285,5.8,0.0,51500,12.1,16.4,63.8,89.5,98.5,79.0,29.48,1.65,28.2,Low Risk,Moderate Baseline Disparity
+Kalutara,Western,1.4014285714285715,3.2,2.4,66400,11.0,19.5,68.4,92.8,6.8,82.0,28.3,1.36,25.3,Low Risk,Moderate Baseline Disparity
+Matara,Southern,1.387142857142857,4.1,0.8,58900,10.5,18.6,65.2,91.8,3.2,81.5,30.63,1.42,25.0,Low Risk,Moderate Baseline Disparity
+Galle,Southern,1.2957142857142858,3.8,1.2,62300,11.8,19.1,69.5,93.4,3.8,84.0,26.48,1.35,23.0,Low Risk,Moderate Baseline Disparity
+Gampaha,Western,1.0142857142857142,1.5,0.0,78500,13.2,20.8,78.2,96.5,2.1,89.5,19.97,1.03,17.0,Low Risk,Moderate Baseline Disparity
+Colombo,Western,0.9185714285714285,1.8,0.1,86200,16.5,21.2,84.5,97.2,8.4,92.0,12.29,1.0,15.0,Low Risk,Moderate Baseline Disparity
