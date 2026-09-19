@@ -1,0 +1,4 @@
+sector,child_population_5_17,currently_attending_school_pct,not_attending_never_attended_pct,economically_active_children_pct,child_labour_rate_pct,hazardous_child_labour_rate_pct,reason_poverty_pct,reason_school_distance_pct,reason_family_assistance_pct,reason_disinterest_in_studies_pct,reason_illness_disability_pct,reason_other_pct,avg_monthly_hh_income_lkr
+Urban,758340,92.1,7.9,1.2,0.6,0.4,36.4,4.2,12.5,28.6,11.2,7.1,88414
+Rural,3482120,90.4,9.6,2.3,1.0,0.6,48.2,14.8,15.2,21.4,9.8,5.6,58137
+Estate,331540,78.5,21.5,4.8,2.5,1.6,54.2,18.4,14.6,12.8,8.5,5.5,34804
