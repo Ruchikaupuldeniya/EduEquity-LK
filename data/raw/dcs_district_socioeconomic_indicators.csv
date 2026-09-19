@@ -1,0 +1,26 @@
+district,province,poverty_headcount_pct,estate_pop_pct,median_hh_income_lkr,pct_1ab_schools,student_teacher_ratio,pct_schools_with_computer_labs,pct_schools_with_sanitation,pct_tamil_medium_schools,roads_access_index
+Colombo,Western,1.8,0.1,86200,16.5,21.2,84.5,97.2,8.4,92.0
+Gampaha,Western,1.5,0.0,78500,13.2,20.8,78.2,96.5,2.1,89.5
+Kalutara,Western,3.2,2.4,66400,11.0,19.5,68.4,92.8,6.8,82.0
+Kandy,Central,5.5,6.3,59800,10.4,18.2,62.1,88.4,24.5,76.5
+Matale,Central,6.2,4.8,52100,7.8,16.9,51.3,81.2,18.2,68.0
+Nuwara Eliya,Central,6.7,53.5,38400,4.6,17.8,34.2,72.5,64.2,52.0
+Galle,Southern,3.8,1.2,62300,11.8,19.1,69.5,93.4,3.8,84.0
+Matara,Southern,4.1,0.8,58900,10.5,18.6,65.2,91.8,3.2,81.5
+Hambantota,Southern,4.9,0.1,54200,9.2,17.5,58.6,87.2,2.5,77.0
+Jaffna,Northern,5.8,0.0,51500,12.1,16.4,63.8,89.5,98.5,79.0
+Kilinochchi,Northern,18.2,0.0,36200,5.4,16.0,35.8,74.2,99.0,58.5
+Mannar,Northern,11.2,0.0,42100,6.8,15.8,44.5,78.5,96.2,62.0
+Vavuniya,Northern,7.4,0.0,47800,8.5,16.5,52.4,82.6,88.4,69.5
+Mullaitivu,Northern,12.7,0.0,35400,5.1,15.2,29.5,71.8,99.2,51.0
+Batticaloa,Eastern,11.3,0.0,41200,6.5,17.9,41.2,76.5,97.4,67.5
+Ampara,Eastern,7.2,0.1,48500,8.2,17.6,54.6,84.2,62.8,72.0
+Trincomalee,Eastern,9.8,0.1,44500,7.2,17.1,46.8,79.4,78.5,66.5
+Kurunegala,North Western,4.6,0.2,56800,9.6,18.9,61.4,89.2,7.4,78.5
+Puttalam,North Western,8.3,0.3,46200,7.0,19.4,48.5,80.5,34.2,70.0
+Anuradhapura,North Central,5.9,0.0,52400,8.0,17.4,53.2,83.5,8.2,71.0
+Polonnaruwa,North Central,6.1,0.0,51900,7.6,17.2,52.0,82.8,9.5,69.5
+Badulla,Uva,6.8,19.2,42800,5.8,16.8,42.5,75.8,36.5,59.0
+Monaragala,Uva,5.8,1.8,41500,4.2,16.2,31.4,73.2,9.8,54.0
+Ratnapura,Sabaragamuwa,5.9,8.1,49200,7.1,18.0,49.8,81.5,17.5,65.0
+Kegalle,Sabaragamuwa,4.5,5.7,55400,9.0,17.8,59.2,88.0,12.4,74.0
